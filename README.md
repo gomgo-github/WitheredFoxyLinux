@@ -10,6 +10,7 @@ Inspired by the mod "1/10000 Chance for Withered Foxy Jumpscare Every Second", t
 git clone https://github.com/gomgo-github/WitheredFoxyLinux.git
 cd WitheredFoxyLinux/
 chmod a+x ./foxy.sh
+chmod a+x ./6am.sh
 ./foxy.sh
 ```
 
@@ -21,8 +22,11 @@ chmod a+x ./foxy.sh
   - 1/10000 chances of happening every second
   - Auto cover dependences
 
-  - You can force the jumpscare by doing ./foxy.sh -now
-  - You might need to chmod a+x ./foxy.sh to get it working
+  - You can force the jumpscare by doing `./foxy.sh -now`
+  - You might need to `chmod a+x ./foxy.sh` to get it working
+
+# Stop the Program
+ - You can use `6am.sh` to stop `foxy.sh` process, just execute it.
 
 # Personal Recomendation
   - Make foxy.sh start with the session, so every time you power on your PC, Withered Foxy can Jumpscare you or whoever you install this to without even remembering it was installed
