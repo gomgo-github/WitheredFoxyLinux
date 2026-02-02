@@ -11,7 +11,12 @@ Inspired by the mod "1/10000 Chance for Withered Foxy Jumpscare Every Second", t
   - Audio automatically set to 100% and then back to original %
   - 1/10000 chances of happening every second
 
+  - You can force the jumpscare by doing ./foxy.sh -now
+  - You might need to chmod a+x ./foxy.sh to get it working
+
 # Personal Recomendation
   - Make foxy.sh start with the session, so every time you power on your PC, Withered Foxy can Jumpscare you or whoever you install this to without even remembering it was installed
 
 # Screenshots
+ ![Screenshot1 on Ubuntu Gnome](/Screenshots/Screenshot1.png)
+ ![Screenshot2 on Ubuntu Gnome](/Screenshots/Screenshot1.png)
