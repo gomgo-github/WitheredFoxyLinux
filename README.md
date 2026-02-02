@@ -19,4 +19,4 @@ Inspired by the mod "1/10000 Chance for Withered Foxy Jumpscare Every Second", t
 
 # Screenshots
  ![Screenshot1 on Ubuntu Gnome](/Screenshots/Screenshot1.png)
- ![Screenshot2 on Ubuntu Gnome](/Screenshots/Screenshot1.png)
+ ![Screenshot2 on Ubuntu Gnome](/Screenshots/Screenshot2.png)
