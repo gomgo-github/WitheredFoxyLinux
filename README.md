@@ -5,6 +5,12 @@ Inspired by the mod "1/10000 Chance for Withered Foxy Jumpscare Every Second", t
  - Python3 and PyQt6
  - XFCE or Gnome (Only tested these two, could work with other window managers)
 
+# Install
+`git clone https://github.com/gomgo-github/WitheredFoxyLinux.git
+cd WitheredFoxyLinux/
+python3 -m pip install PyQt6`
+
+/!\ If `python3 -m pip install PyQt6` you can install `python3 -m pip install PyQt6 --break-system-packages` or setup a venv, but you will need to manually use that venv on foxy.sh
 # Features
   - Jumpscare over your apps, happening on top, so it won't close anything, it will just jump over your current opened app
   - Jumpscare sound
