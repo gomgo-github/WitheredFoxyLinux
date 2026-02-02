@@ -1,5 +1,15 @@
 #!/bin/bash
 
+VENV_PATH="./venv"
+
+if [ ! -d "$VENV_PATH" ]; then
+    echo "Creating a venv for PyQt6"
+    python3 -m venv "$VENV_PATH"
+    echo "venv created"
+fi
+
+source "$VENV_PATH/bin/activate"
+
 python3 -c "import PyQt6" 2>/dev/null || pip install PyQt6
 
 SOUND_FILE="./foxy.mp3"
