@@ -42,4 +42,4 @@ This project is a non-profit, fan-made creation.
 * **Audio and Imagery:** The sound files and character references (FNAF/Foxy) used in this project are the property of **Scott Cawthon** and **Steel Wool Studios**. No copyright infringement is intended. 
 * **Purpose:** This software is intended for educational and entertainment purposes only.
 * **Usage:** I do not claim ownership of any assets associated with the *Five Nights at Freddy's* franchise. Please support the official releases of the series.
-* **Original Idea:** This program is based on the ymy mod [1/10000 Chance for Withered Foxy Jumpscare Every Second](https://steamcommunity.com/sharedfiles/filedetails/?id=3481943642)
+* **Original Idea:** This program is based on the ymy mod for Terraria tModLoader [1/10000 Chance for Withered Foxy Jumpscare Every Second](https://steamcommunity.com/sharedfiles/filedetails/?id=3481943642)
