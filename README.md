@@ -32,7 +32,8 @@ chmod a+x ./6am.sh
   - Make foxy.sh start with the session, so every time you power on your PC, Withered Foxy can Jumpscare you or whoever you install this to without even remembering it was installed
 
 # Screenshots
-
+ ![Screenshot1 on Ubuntu Gnome](/Screenshots/Screenshot1.png)
+ ![Screenshot2 on Ubuntu Gnome](/Screenshots/Screenshot2.png)
 
  ## Legal Disclaimer
 
